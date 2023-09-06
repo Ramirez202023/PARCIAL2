@@ -1,0 +1,11 @@
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\bin\Debug\Parcial 1 progra 2.exe.config
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\bin\Debug\Parcial 1 progra 2.exe
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\bin\Debug\Parcial 1 progra 2.pdb
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\bin\Debug\Parcial 1 progra 2.xml
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\obj\Debug\Parcial 1 progra 2.vbproj.AssemblyReference.cache
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\obj\Debug\Parcial_1_progra_2.Resources.resources
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\obj\Debug\Parcial 1 progra 2.vbproj.GenerateResource.cache
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\obj\Debug\Parcial 1 progra 2.vbproj.CoreCompileInputs.cache
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\obj\Debug\Parcial 1 progra 2.exe
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\obj\Debug\Parcial 1 progra 2.xml
+C:\Users\frans\OneDrive\Escritorio\Universidad\Progra 2\Parcial 1 progra 2\obj\Debug\Parcial 1 progra 2.pdb
