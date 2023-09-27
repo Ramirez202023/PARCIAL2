@@ -1,2 +1,2 @@
-# PARCIAL2
+# PGUIA
 Este es el gui induccion 1
